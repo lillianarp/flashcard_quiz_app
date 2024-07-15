@@ -1,6 +1,3 @@
-Sure, here's a detailed README for your flashcard app project:
-
----
 
 # Flashcard Quiz App
 
